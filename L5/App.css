@@ -1,0 +1,5 @@
+/* App.css */
+.grid { display: flex; flex-wrap: wrap; gap: 16px; margin-top: 16px; }
+.figure { border: 1px solid #ccc; padding: 10px; text-align: center; transition: transform 0.3s; }
+.figure:hover { transform: scale(1.05); }
+.figure img { width: 200px; border-radius: 8px; }
