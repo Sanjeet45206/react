@@ -1,0 +1,23 @@
+.container {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  margin-top: 50px;
+}
+
+input {
+  margin-left: 10px;
+  padding: 5px;
+  font-size: 16px;
+}
+
+button {
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button.reset {
+  background-color: red;
+  color: white;
+}
